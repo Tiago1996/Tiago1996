@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Tiago1996/Tiago1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://kapwi.ng/c/QLVoAJKx
 
 Here are some ideas to get you started:
 
