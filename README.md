@@ -1,4 +1,4 @@
-https://kapwi.ng/c/QLVoAJKx
+![Farmers Market Finder Demo](demo/demo.gif)
 
 Here are some ideas to get you started:
 
