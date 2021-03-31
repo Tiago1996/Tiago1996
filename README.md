@@ -1,6 +1,5 @@
 >
-![]([image](https://user-images.githubusercontent.com/49624069/113194136-b2d4cd00-9258-11eb-9d4b-a261537dffe9.png)
-)
+![](166121162_235910191567504_8161606856970759674_n.gif)
 
 Here are some ideas to get you started:
 
