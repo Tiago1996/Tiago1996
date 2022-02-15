@@ -4,6 +4,7 @@
 ### Computer Engineering student at ISEC, Coimbra, and Deloitte Junior Programmer! 
 
 - 🔭 I’m currently working on [Deloitte Digital](https://www2.deloitte.com/pt/pt.html)
-- 🌱 I’m currently learning Ansible
+- 🌱 I'm getting certified in Java 8 , ISTQB Tester Foundation Level , AWS Cloud Practicioner.
+
 
 
